@@ -1,0 +1,23 @@
+# Uniko
+
+> Uniko is a Mexican gift registry (mesa de regalos) SaaS for weddings, events, and baby showers. Couples receive gifts as cash deposited to their bank account, plus a personalized wedding website, save-the-date invitations, and WhatsApp-based guest confirmation. Uniko is a 500 Global portfolio company. It is a consumer-facing platform and publishes no public API, developer documentation, or machine-readable specs.
+
+## Site
+
+- [Uniko homepage](https://uniko.co/): La mesa de regalos inteligente para bodas y eventos
+- [How it works](https://uniko.co/como-funciona-uniko-mesa-de-regalos-boda): Product walkthrough
+- [Plans and pricing](https://uniko.co/planes): Plan Basico and Plan Uniko (MXN)
+- [FAQ](https://uniko.co/preguntas-frecuentes-uniko-mesa-de-regalos): Frequently asked questions
+- [Blog](https://uniko.co/blog): Wedding planning blog
+- [Contact](https://uniko.co/contacto): Customer support
+
+## App
+
+- [Sign up](https://evento.uniko.co/onboarding/boda/register): Open a wedding gift registry
+- [Log in](https://evento.uniko.co/onboarding/login): Account login
+- [Search an event](https://evento.uniko.co/search): Find an event and give a gift
+- [Privacy policy](https://evento.uniko.co/politica-de-privacidad)
+
+## Catalog
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/uniko/refs/heads/main/apis.yml): API Evangelist network profile for Uniko

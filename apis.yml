@@ -1,7 +1,11 @@
 aid: uniko
 name: Uniko
-description: Uniko is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Uniko is a Mexican gift registry (mesa de regalos) SaaS platform for weddings,
+  events, and baby showers, letting couples convert gifts into cash deposited directly
+  to their bank account. The platform bundles a personalized wedding website, save-the-date
+  digital invitations, WhatsApp-based guest confirmation, and planning tools, and also
+  offers store-credit gift registries for ecommerce shops. Uniko is a 500 Global portfolio
+  company; it is consumer-facing and publishes no public API or developer documentation.
 url: https://raw.githubusercontent.com/api-evangelist/uniko/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +13,29 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://static1.squarespace.com/static/60d9350398f4bb6a7b5acfca/t/60e340ecdd420a02fe39e6a6/1625506028883/logo_uniko+%281%29.png
 tags:
 - Company
+- Gift Registry
+- Weddings
+- Events
+- Ecommerce
+- Payments
+- Mexico
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +45,26 @@ maintainers:
 common:
 - type: Website
   url: https://uniko.co
+- type: Blog
+  url: https://uniko.co/blog
+- type: Support
+  url: https://uniko.co/contacto
+- type: Pricing
+  url: https://uniko.co/planes
+- type: SignUp
+  url: https://evento.uniko.co/onboarding/boda/register
+- type: Login
+  url: https://evento.uniko.co/onboarding/login
+- type: PrivacyPolicy
+  url: https://evento.uniko.co/politica-de-privacidad
+- type: WellKnown
+  url: well-known/uniko-well-known.yml
+- type: LLMsTxt
+  url: llms/uniko-llms.txt
+- type: DomainSecurity
+  url: security/uniko-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
