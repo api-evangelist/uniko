@@ -7,6 +7,9 @@ description: Uniko is a Mexican gift registry (mesa de regalos) SaaS platform fo
   offers store-credit gift registries for ecommerce shops. Uniko is a 500 Global portfolio
   company; it is consumer-facing and publishes no public API or developer documentation.
 url: https://raw.githubusercontent.com/api-evangelist/uniko/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Uniko is a 500 Global portfolio company; it is consumer-facing and publishes no public API or developer documentation."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
